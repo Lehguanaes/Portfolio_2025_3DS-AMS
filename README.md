@@ -7,4 +7,5 @@
   <br>
   <a href = "Certificados SkillsBuild"><img src="https://img.shields.io/badge/-Certificados SkillsBuild-FFFFFF?style=for-the-badge&logo=github&logoColor=cf0e0e"></a>
   <a href="Palestras" target="_blank"><img src="https://img.shields.io/badge/-Palestras-FFFFFF?style=for-the-badge&logo=github&logoColor=cf0e0e"></a>
+  <a href="Mesa Redonda" target="_blank"><img src="https://img.shields.io/badge/-Mesa Redonda-FFFFFF?style=for-the-badge&logo=github&logoColor=cf0e0e"></a>
  </div>
